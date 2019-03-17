@@ -14,7 +14,7 @@ int main()
 				
 			if(c>b[i])
 			{
-			c=b[i];	printf("%d\n",c);
+			c=b[i];//	printf("%d\n",c);
 				d=i;	
 				}
 			}
