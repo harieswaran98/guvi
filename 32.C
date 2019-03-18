@@ -8,4 +8,5 @@ int main()
 		if(a[i]==' ')
 		b++;
 		}
+		printf("%d",b+1:);
 		}
